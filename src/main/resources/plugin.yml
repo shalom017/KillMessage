@@ -1,0 +1,4 @@
+name: KillMessage
+version: '${version}'
+main: message.killmessage.KillMessage
+api-version: '1.16'
